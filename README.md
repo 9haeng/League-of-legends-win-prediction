@@ -46,7 +46,7 @@
 ![image](https://user-images.githubusercontent.com/70729822/203347079-e03df0f0-7192-4446-b9f2-1b8c7690f519.png)
 ![image](https://user-images.githubusercontent.com/70729822/203347146-2a69cb10-e80a-4a1b-bfc7-d32be147122b.png)
 
-데이터를 블루팀, 레드팀으로 나눈 후 `Select K Best`를 활용해 **feature selection**를 진행하고 **승리 예측**을 해보는 시간을 가졌습니다.
+데이터를 블루팀, 레드팀으로 나눈 후 `Select K Best`를 활용해 **feature selection**을 진행하고 **승리 예측**을 해보는 시간을 가졌습니다.
 
 양 팀 공통으로 성능이 **가장 우수한 모델**은 `Logistic Regression`으로 총 6개의 타겟에 대한 예측을 **약 0.925**의 **정확도**로 해냈습니다.
 
